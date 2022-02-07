@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erickson,
-- 👀 I’m interested in Mobile Environment using Flutter
+- 👀 I’m interested in Mobile development using Flutter
 - 💞️ I’m looking to collaborate on packages and mobile environments
 <!---
 EricksonMoura45/EricksonMoura45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
